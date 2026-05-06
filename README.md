@@ -29,11 +29,3 @@ A production-ready Flutter application for efficient event entry and crowd monit
     ```bash
     flutter run
     ```
-    *Note: Use the "Test Tools" in the Check-in tab to simulate scans.*
-
-## Simulated Git History
-*   `chore: initialize Flutter project`
-*   `feat(ui): implement all screens and UI layout`
-*   `feat(core): implement check-in logic, validation, dashboard`
-*   `feat(storage): add Hive offline storage and sync logic`
-*   `chore: final enhancements and documentation`
